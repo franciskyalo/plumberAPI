@@ -7,3 +7,5 @@ RESTful API is a way for two computer systems to communicate and share informati
 The Swagger UI makes it possible for anyone, such as a development team or end users, to view and interact with the API's resources without having to know the underlying implementation details. It is generated automatically from the OpenAPI specification, providing an easy to understand visual documentation for both the back-end implementation and front-end consumption.
 
 The plumber package in R allows you to create a RESTful API from your R code. It allows you to expose R code as a web service, making it easy for other systems to access the functionality provided by your R code. It can therefore be used to expose model predictions as endpoints that can be interacted with.
+
+### Code for the RESTful API is contained in the Plumber.R file
